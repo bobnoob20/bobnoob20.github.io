@@ -59,7 +59,8 @@
       const now = new Date().getTime();
       const distance = eventDate - now;
       if (distance < 0) {
-        document.getElementById("countdown").innerHTML = document.getElementById("countdown-finish").textContent;
+        document.getElementById("countdown-finish").textContent = lang["countdown-finish"];
+;
         return;
       }
       const d = Math.floor(distance / (1000*60*60*24));
@@ -72,6 +73,11 @@
     setInterval(updateCountdown, 1000);
     updateCountdown();
   </script>
+
+  <div id="countdown"></div>
+
+<span id="countdown-finish" style="display:none;"></span>
+
 
   <!-- Texte court -->
   <section class="section-bg tier-hero">
