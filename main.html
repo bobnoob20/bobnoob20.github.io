@@ -52,31 +52,7 @@
     </div>
   </section>
 
-  <!-- Compte à rebours -->
-  <script>
-    const eventDate = new Date("2025-08-08T00:00:00").getTime();
-    function updateCountdown() {
-      const now = new Date().getTime();
-      const distance = eventDate - now;
-      if (distance < 0) {
-        document.getElementById("countdown-finish").textContent = lang["countdown-finish"];
-;
-        return;
-      }
-      const d = Math.floor(distance / (1000*60*60*24));
-      const h = Math.floor((distance % (1000*60*60*24))/(1000*60*60));
-      const m = Math.floor((distance % (1000*60*60))/(1000*60));
-      const s = Math.floor((distance % (1000*60))/1000);
-      document.getElementById("countdown").innerHTML =
-        (d<10?"0"+d:d)+" : "+(h<10?"0"+h:h)+" : "+(m<10?"0"+m:m)+" : "+(s<10?"0"+s:s);
-    }
-    setInterval(updateCountdown, 1000);
-    updateCountdown();
-  </script>
-
-  <div id="countdown"></div>
-
-<span id="countdown-finish" style="display:none;"></span>
+  
 
 
   <!-- Texte court -->
@@ -428,9 +404,35 @@
     location.reload();
   }
 
+
+
 </script>
 
+<!-- Compte à rebours -->
+  <script>
+    const eventDate = new Date("2025-08-08T00:00:00").getTime();
+    function updateCountdown() {
+      const now = new Date().getTime();
+      const distance = eventDate - now;
+      if (distance < 0) {
+        document.getElementById("countdown-finish").textContent = lang["countdown-finish"];
+;
+        return;
+      }
+      const d = Math.floor(distance / (1000*60*60*24));
+      const h = Math.floor((distance % (1000*60*60*24))/(1000*60*60));
+      const m = Math.floor((distance % (1000*60*60))/(1000*60));
+      const s = Math.floor((distance % (1000*60))/1000);
+      document.getElementById("countdown").innerHTML =
+        (d<10?"0"+d:d)+" : "+(h<10?"0"+h:h)+" : "+(m<10?"0"+m:m)+" : "+(s<10?"0"+s:s);
+    }
+    setInterval(updateCountdown, 1000);
+    updateCountdown();
+  </script>
 
+  <div id="countdown"></div>
+
+<span id="countdown-finish" style="display:none;"></span>
 
 
 </body>
