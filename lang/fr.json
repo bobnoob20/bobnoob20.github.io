@@ -12,7 +12,7 @@
 
 
   "countdown-finish": "C'est le jour J",
-
+  "intro":"Nous avons déjà dis OUI à l’amour et le fruit le plus beau en est notre petite Mayla. Aujourd’hui nous vous invitons à fêter avec nous cet amour, entourés de tous ceux qu’on aime.",
 
   "_comment": "date",
 
@@ -26,7 +26,28 @@
   "_comment": "horaire",
 
   "horaire_titre": "Déroulement du weekend",
-  "horaire_t1":"14H00 – Accueil 🍸"
+  "horaire_t1a":"14H00 – Accueil 🍸",
+  "horaire_t1b":"Boisson de bienvenue",
+  "horaire_t2a":"14H30 – Cérémonie 💍",
+  "horaire_t2b":"Cérémonie laïque en plein air",
+  "horaire_t3a":"15H30 – Rallye 🚩",
+  "horaire_t3b":"Jeux et défis en équipes",
+  "horaire_t4a":"17H00 – Apéro🥂",
+  "horaire_t4b":"Boissons et amuse-bouches",
+  "horaire_t5a":"19h00 – Repas 🍽️",
+  "horaire_t5b":"Buffet grillades et dessert",
+  "horaire_t6a":"22H – Fête 🎉",
+  "horaire_t6b":"Jusqu'au bout de la nuit",
+  "horaire_t7a":"Dès 8H00 – Déjeuner 🥐",
+  "horaire_t7b":"Pour les lève-tôt",
+
+
+  "_comment": "histoire",
+
+  "histoire_titre":"Notre histoire",
+  "hstoire_annik":"« On a littéralement TOUT partagé ensemble : nos premiers regards, nos premières vacances, nos premiers désaccords… et même notre première rupture» – Annik",
+  "histoire_joaquim":"«Si notre amour tient une année à distance, il tiendra à vie» – Joaquim",
+  "histoire_button":"Pour tout l’histoire<br>Cliquez ici"
 
 
 
