@@ -237,9 +237,9 @@
         </label>
 
 
-          <label id="rsvp_heberg_rep2">
+          <label>
               <input type="radio" name="entry.667456340" value="chambre hotel">
-              <span class="label-text"></span>
+              <span id="rsvp_heberg_rep2"></span>
           </label>
 
           <label id="rsvp_heberg_rep3">
@@ -282,36 +282,32 @@
 </section>
 
 <script>
-let translations = {};
-const lang = localStorage.getItem("lang") || "fr";
+  let translations = {}; // <-- global
 
-fetch(`lang/${lang}.json`)
-  .then(response => response.json())
-  .then(data => {
-    translations = data;
+  const lang = localStorage.getItem("lang") || "fr";
 
-    for (const id in translations) {
-      const element = document.getElementById(id);
-      if (!element) continue;
+  fetch(`lang/${lang}.json`)
+    .then(response => response.json())
+    .then(data => {
+      translations = data;
 
-      // if label has <span class="label-text"> update only it
-      const span = element.querySelector(".label-text");
-      if (span) {
-        span.textContent = translations[id];
-      } else {
-        element.textContent = translations[id];
+      // Apply all translated texts
+      for (const id in translations) {
+        const element = document.getElementById(id);
+        if (element) {
+          element.innerHTML = translations[id];
+        }
       }
-    }
-  });
+    });
 
-function setLang(language) {
-  localStorage.setItem("lang", language);
-  location.reload();
-}
+  function setLang(language) {
+    localStorage.setItem("lang", language);
+    location.reload();
+  }
 </script>
 
-
 </body>
+
 </html>
 
 
