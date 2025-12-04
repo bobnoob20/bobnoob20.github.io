@@ -145,11 +145,44 @@
   "chap2_titre":"Chapitre 2 : Les années d’adolescence",
   "chap2_cont":"Ensuite ? Des activités, des sorties, des longs au revoir derrière le tas de bois, des cinés, des restos… bref, tout ce qu’il faut pour se construire plein de souvenirs.<br><br>Puis vient le collège, mais rien ne change dans leurs habitudes. Jusqu’à ce qu’un jour maman parte un an au Canada.<br><br>Vous voulez savoir le plus drôle ? Papa a raté son départ à l’aéroport à cause d’une panne de réveil (oui oui, c’est vrai !).<br><br>Mais le plus fou dans tout ça, c’est que quand maman a laissé papa seul à Genève pour vivre cette super aventure à l’autre bout du monde, les deux n’avaient que seize ans. Ils étaient jeunes, beaux gosses, séparés aux deux extrémités du globe… et pourtant, ils n’ont jamais douté. Pas une fois! Pas de crise, pas de pause, pas de “on verra bien”, rien du tout. Leur histoire tenait bon — solide comme jamais. <br><br>N’empêche qu’il faut aussi dire merci à Skype! Grâce à lui (et aussi aux réveils matinaux de papa), ils ont pu continuer à se parler, à rire et à s’aimer malgré le décalage horaire. Comme quoi, quand c’est la bonne personne, même les océans n’y changent rien !",
   "chap3_titre":"Chapitre 3 : L’université et la vie d’adulte",
-  "chap3_cont":"Maman part encore… Mais cette fois elle ne va pas très loin. Elle va étudier le sport et l’anglais à Lausanne. Papa, lui, reste à Genève pour étudier la biologie. <br><br>Résultat : ils ne se voient plus que le week-end.<br><br>Et puis arrive 2020 : le Covid, mais aussi leur séparation. Ce n’a pas été une période facile pour les deux. Pourtant, je suppose qu’elle a dû être nécessaire pour faire avancer et grandir leur couple.<br><br>Mais heureusement, il faut croire que quand deux personnes sont faites pour être ensemble… elles finissent toujours par se retrouver.<br><br>Après le confinement, maman et papa décident de redonner une chance à leur histoire et de s’installer ensemble. Bon… disons que la première tentative n’a pas été un succès. Mais comme les belles histoires trouvent toujours leur chemin, ils ont fini par se retrouver pour de bon, dans un petit appartement à Puplinge. Et cette fois, plus rien ne les a séparés.</p>"
+  "chap3_cont":"Maman part encore… Mais cette fois elle ne va pas très loin. Elle va étudier le sport et l’anglais à Lausanne. Papa, lui, reste à Genève pour étudier la biologie. <br><br>Résultat : ils ne se voient plus que le week-end.<br><br>Et puis arrive 2020 : le Covid, mais aussi leur séparation. Ce n’a pas été une période facile pour les deux. Pourtant, je suppose qu’elle a dû être nécessaire pour faire avancer et grandir leur couple.<br><br>Mais heureusement, il faut croire que quand deux personnes sont faites pour être ensemble… elles finissent toujours par se retrouver.<br><br>Après le confinement, maman et papa décident de redonner une chance à leur histoire et de s’installer ensemble. Bon… disons que la première tentative n’a pas été un succès. Mais comme les belles histoires trouvent toujours leur chemin, ils ont fini par se retrouver pour de bon, dans un petit appartement à Puplinge. Et cette fois, plus rien ne les a séparés.</p>",
+  "chap4_titre":"Chapitre 4 : La demande et… moi !",
+  "chap4_cont":"L’été 2024, durant leur voyage en Norvège, papa fait (enfin) sa demande de mariage. (Franchement, il était temps, non ?)<br><br>Mais ce qu’ils ignoraient, c’est qu’un autre bonheur les attendait durant ce même voyage… Deux semaines plus tard, ils découvraient qu’un petit cœur battait déjà dans le ventre de maman : moi.<br><br>Autant dire que le mariage a vite changé de priorité…<br><br>Et le 31 mars 2025, j’ai fait mon entrée dans ce monde et dans la vie de maman et papa.",
+  "chap5_titre":"Chapitre 5 : Et nous voilà aujourd’hui",
+  "chap5_cont":"Alors oui, il a fallu un peu attendre pour pouvoir organiser cet événement… mais ça valait le coup, non?<br><br>En août prochain, on sera là, entourés de tous ceux qu’on aime, pour célébrer 17 ans d’histoire, d’aventures, de séparations et de retrouvailles, de fou rires et de projets.<br><br>Et moi, je suis bien placée pour vous dire une chose : Mes parents sont la preuve vivante qu’avec de la patience, de l’écoute, beaucoup d’humour et un peu de Skype, l’amour peut tout traverser.",
+  "signa":"Signé : votre narratrice de huit mois (et déjà un peu fière de ses parents),<br><strong>Mayla</strong>",
+  "button_retour":"⬅ Retour à l’accueil",
+
+
+
+
+
+
+  "9_comment":"rsvp",
   
+  "rsvp_t":"RSVP - Annik & Joaquim",
+  "rsvp_btn_ret":"Retour",
+  "rsvp_titre":"Fête de l’Amour Annik & Joaquim",
+  "rsvp_cont1":"Confirmez votre présence",
+  "rsvp_cont2":"Répondez à ces quelques questions pour confirmer votre présence.",
+  "rsvp_info_perso_titre":"Informations personnelles",
+  "rsvp_fin_perso_prenom":"Prénom",
+  "rsvp_fin_perso_nom":"Nom",
 
+  "rsvp_presence":"Présence",
+  "rsvp_presence_rep1":"Je veux profiter un maximum, je vous rejoins déjà vendredi",
+  "rsvp_presence_rep2":"Comptez sur ma présence samedi et dimanche",
+  "rsvp_presence_rep3":"Je serai de la partie le samedi uniquement",
+  "rsvp_presence_rep4":"Désolé, je serai obligé de manquer cet évenement incroyable",
+  "rsvp_presence_commentaire":"Commentaire :",
+  
+  "rsvp_repas":"Repas",
+  "rsvp_repas_rep":"Avez-vous des allergies ou intolérances ?",
 
-
-
-
+  "rsvp_heberg":"Hébergement",
+  "rsvp_heberg_rep1":" Je suis ouvert à l'idée de dormir sous une tente (surplace)",
+  "rsvp_heberg_rep2":"Je souhaite dormir dans une chambre du Berghotel Chäserstatt (surpalce)",
+  "rsvp_heberg_rep3":"e ne dormirai pas sur place et me débrouille par mes prorpes moyens pour ce qui concerne le logement",
+  "rsvp_heberg_rep4":"Je veux La tente",
+  "rsvp_heberg_rep5":"Dormir? Pourquoi?"
 }
