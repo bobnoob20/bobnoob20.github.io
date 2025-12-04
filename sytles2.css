@@ -168,22 +168,11 @@ input[type="text"], textarea {
 /* Radio & checkbox */
 .radio-group {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
     gap: 12px;
     margin: 20px 0;
 }
-
-input[type="radio"] {
-    appearance: auto !important;  /* <- restores native circle */
-    -webkit-appearance: auto !important;
-    -moz-appearance: auto !important;
-    display: inline-block !important;
-    width: 18px;
-    height: 18px;
-    cursor: pointer;
-}
-
 
 
 .radio-group label {
