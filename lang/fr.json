@@ -1,5 +1,5 @@
 {
-    "_comment": "bar nav",
+    "1_comment": "bar nav",
 
   "nav_fete": "La fête",
   "nav_histoire":"Notre histoire",
@@ -14,7 +14,7 @@
   "countdown-finish": "C'est le jour J",
   "intro":"Nous avons déjà dis OUI à l’amour et le fruit le plus beau en est notre petite Mayla. Aujourd’hui nous vous invitons à fêter avec nous cet amour, entourés de tous ceux qu’on aime.",
 
-  "_comment": "date",
+  "2_comment": "date",
 
   "date_weekend":"Le weekend de la fête de l'amour",
   "date_quand":"Quand ?",
@@ -23,7 +23,7 @@
   "date_ourep":"Au Berghotel Chäserstatt, 3995 Ernen, Valais",
 
 
-  "_comment": "horaire",
+  "3_comment": "horaire",
 
   "horaire_titre": "Déroulement du weekend",
   "horaire_t1a":"14H00 – Accueil 🍸",
@@ -42,13 +42,62 @@
   "horaire_t7b":"Pour les lève-tôt",
 
 
-  "_comment": "histoire",
+  "4_comment": "histoire",
 
   "histoire_titre":"Notre histoire",
-  "hstoire_annik":"« On a littéralement TOUT partagé ensemble : nos premiers regards, nos premières vacances, nos premiers désaccords… et même notre première rupture» – Annik",
+  "histoire_annik":"« On a littéralement TOUT partagé ensemble : nos premiers regards, nos premières vacances, nos premiers désaccords… et même notre première rupture» – Annik",
   "histoire_joaquim":"«Si notre amour tient une année à distance, il tiendra à vie» – Joaquim",
-  "histoire_button":"Pour tout l’histoire<br>Cliquez ici"
+  "histoire_button":"Pour tout l’histoire<br>Cliquez ici",
 
 
+  "5_comment": "infomartion",
 
+  "info_titre":"Informations importantes",
+  "info_intro":"Avant de préparer vos valises, prenez quelques minutes pour lire attentivement les informations ci-dessous. Elles vous aideront à organiser votre venue, savoir comment accéder au lieu, où dormir et à quoi vous attendre sur place. <br> Rien de compliqué, promis — mais quelques petits détails pratiques à connaître pour que tout se passe au mieux !",
+  "info_trans_titre":"Transport",
+  "info_trans_intro":"Le lieu du mariage n’est pas accessible en transports publics. La station de train la plus proche est celle de Fiesch. Depuis là une voiture est nécessaire. Si vous prévoyez de venir en transports publiques dites-le nous assez tôt pour que nous puissions nous arranger pour le dernier petit bout.<br> Au bout du village de Mühlebach, lieu juste avant la dernière montée, il y a un grand espace où il est possible de se garer gratuitement. Voici les coordonnées du parking gratuit de Mühlebach : 46°24'360\"N 8°09'30.7\"E. Depuis cet endroit, deux options s’offrent à vous :<br><br>",
+  "info_trans_1titre":"1.\tMonter en voiture par le petit chemin de montagne",
+  "info_trans_1cont":"L'accès coûte 5 CHF par voiture et est valable 24 heures (vous pouvez donc monter et descendre autant de fois que vous le souhaitez pendant cette période).<br>En haut, de nombreuses places de parking sont disponibles, donc aucun souci de ce côté-là.",
+  "info_trans_2titre":"2.\tLaisser la voiture en bas et faire du covoiturage",
+  "info_trans_2cont":"Le parking du bas est gratuit et spacieux. Vous pouvez ensuite partager un trajet avec d’autres invités pour la dernière partie du chemin. N’hésitez pas à vous organiser entre vous pour faciliter les montées !",
+  "info_logement_titre":"Logement",
+  "info_logement_intro":"Nous aimerions beaucoup que tous nos invités puissent rester sur place pour profiter pleinement du weekend ensemble. Cependant, il n’y a pas assez de lits pour tout le monde.<br><br>Voici donc les différentes possibilités qui s'offrent à vous:",
+  "info_logement_1titre":"1.\tChambres à l’hôtel Chäserstatt (sur place)",
+  "info_logement_1cont":"Pour celles et ceux qui souhaitent dormir dans une chambre, c’est possible, mais à vos frais. Il y a aussi la possibilité d’ajouter un matelas supplémentaire dans chaque chambre.",
+  "info_logement_2titre":"2.\tTentes (sur place)",
+  "info_logement_2cont":"Pour les aventuriers, les romantiques sous les étoiles ou les nostalgiques du camping, vous pouvez planter votre tente gratuitement sur place. Si c’est une tente qui vous manque, pas de soucis on s’arrange. Vous pourrez utiliser les toilettes et les douches de l’hôtel, sans frais supplémentaires.",
+  "info_logement_3titre":"3.\tVans ou voitures (sur place)",
+  "info_logement_3cont":"Si vous avez un van ou souhaitez dormir dans votre voiture, c’est également possible ! Vous pourrez utiliser les toilettes et les douches de l’hôtel, sans frais supplémentaires.",
+  "info_logement_4titre":"4.\tChambres à l’hôtel (ailleurs)",
+  "info_logement_4cont":"Dans le cas où il n’y aurait plus de chambres sur place et que l’idée de faire du camping ne vous vend pas du rêve, il y a plusieurs hôtels à 15-20min de route dans les villages en bas. Nous vous laisserions le soin de faire la réservation mais nous sommes à disposition si vous avez des questions.",
+  "info_logement_concl":"Vous allez pouvoir nous indiquez votre préférence parmi les différentes options ci-dessus dans le RSVP afin que nous puissions vous répartir dans les différentes chambres. Si besoin nous vous contacterons directement à ce sujet.",
+  "info_fin_titre":"Arrivée et départ",
+  "info_fin_cont":"Le mariage se déroulera sur deux jours : samedi et dimanche.<br>Nous, les mariés, serons déjà sur place quelques jours avant. Si certains souhaitent venir plus tôt pour profiter du lieu ce serait avec grand plaisir !<br>Ce sera un peu comme des mini-vacances à la montagne, ambiance détendue et apéros improvisés. Les nuits et repas seront à votre charge — mais les bons moments, eux, seront gratuits.<br>Nous précisons tout de même que si vous souhaiteriez passer les deux nuits sous tente ou dans la voiture cela est également possible (sans frais).<br><br>Si vous arrivez samedi, les festivités commenceront à 14h.<br>Pour ceux qui dormiront à l’hôtel le samedi soir, certaines chambres seront déjà accessibles dès votre arrivée, si ce n’est pas le cas, elles le seront au plus tard à 16h. Dans tous les cas, vous aurez un endroit pour déposer vos bagages.<br>Pour ceux qui prévoient de dormir sous tente, nous vous recommandons vivement d’arriver un peu en avance afin d’avoir le temps de l’installer avant la cérémonie, prévue à 14h30.<br>Cela vous évitera de devoir vous absenter pendant la fête… ou de devoir monter votre tente possiblement saoul dans le noir à 4h du matin !<br><br>Pour ce qui est du dimanche matin, le petit déjeuné sera servi entre 8h et 10h. Et les chambres devront être libérées à 10h.",
+
+
+  "6_comment": "FAQ",
+  "faq_titre":"FAQ",
+  "faq_infoprat_titre":"Informations pratiques",
+  "faq_infoprat_intro":"Vous avez peut-être encore des questions... Nous espérons pouvoir y répondre ici.",
+  "faq_infoprat_quest1":"Où et quand à lieu le mariage ?",
+  "faq_infoprat_rep1":"Au Berghotel Chäserstatt (3995 Ernen) du samedi 8 août 2026 à 14h00 au dimanche 9 août 2026 à 10h00.<br>Cependant, si vous voulez profitez du lieu, nous serions ravis de vous y voir déjà vendredi.",
+  "faq_infoprat_quest2":"À quelle heure devons-nous arriver ?",
+  "faq_infoprat_rep2":"Vous êtes attendus à 14h00 au plus tard. La cérémonie commencera à 14h30.<br>Cependant, si vous souhaitez arriver plus tôt pour profiter du lieu, nous serions ravis de vous y voir déjà vendredi.",
+  "faq_infoprat_quest3":"Y a-t-il un dress code ?",
+  "faq_infoprat_rep3":"Soyez beaux mais moins beaux que nous 😉😘",
+  "faq_infoprat_quest4":"Le mariage se déroule-t-il en intérieur ou en extérieur ?",
+  "faq_infoprat_rep4":"Entièrement en extérieur, sous tente. En cas de mauvais temps il y aura des chauffages.",
+  "faq_infoprat_quest5":"Quelles sont les conditions météorologiques locales typiques pour ce weekend ?",
+  "faq_infoprat_rep5":"Nous serons à 1770m d’altitude. Donc on ne sait jamais exactement. Vérifiez la météo avant de partir.",
+  "faq_trans_heberg_titre":"Transport & hébergement",
+  "faq_trans_heberg_quest1":"Comment venir ?",
+  "faq_trans_heberg_rep1":"Comme mentionné dans la section « Informations importantes ». Le plus simple est de venir en voiture.<br>En transport publique la gare la plus proche est celle de Fiesch. Mais le dernier bout n’est pas desservi en transport publique.",
+  "faq_trans_heberg_quest2":"Y a-t-il un parking sur place ?",
+  "faq_trans_heberg_rep2":"Comme mentionné dans la section « Informations importantes ». Il y a pleins de places autour de l’hôtel.<br>A savoir qu’il y a des frais de 5chf/24h pour chaque voiture qui monte. Il est aussi possible de laisser la voiture en bas du chemin payant (sur l’espace de stationnement gratuit de Mühlebach) et de monter à plusieurs dans une voiture.",
+  "faq_trans_heberg_quest3":"Y aura-t-il des navettes pour se rendre sur le lieu ?",
+  "faq_trans_heberg_rep3":"Il n’y a pas de navettes prévues. ",
+  "faq_trans_heberg_quest4":"Où dormir ?",
+  "faq_trans_heberg_rep4":"Comme mentionné dans la section « Informations importantes ». Plusieurs s’options s’offrent à vous. Nous vous laisserons le soin de choisir celle que vous préférez lorsque que vous remplirez le RSVP.",
+  "faq_trans_heberg_qest5":"Où et quand pouvons-nous déposer nos bagages ?",
+  "faq_trans_heberg_rep5":"Comme mentionné dans la section « Informations importantes ». Si votre chambre est prête à votre arrivée vous pourrez vous y installer avant la cérémonie. Si ce n’est pas le cas, les chambres seront à disposition à 16h au plus tard. Dans tous les cas vous aurez un espace à disposition pour y déposer vos bagages.<br>Pour ceux qui dorment sous tente nous vous conseillons de compter un peu de temps de marge et de l’installer dès votre arrivée, avant la cérémonie. Installer une tente dans la nuit et possiblement saoul n’est pas si facile (on ne parle pas d’expérience)."
 }
