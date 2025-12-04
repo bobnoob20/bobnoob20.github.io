@@ -1,4 +1,201 @@
 {
-  "fete": "The Love Weekend Celebration",
-  "histoire_button":"Pour l’histoire<br>Cliquez al"
+    "1_comment": "bar nav",
+
+  "nav_fete": "The party",
+  "nav_histoire":"Our story",
+  "nav_info":"Info",
+  "nav_faq":"FAQ",
+  "nav_rsvp":"RSVP",
+  "nav_langue":"🌍 Langues",
+  "acc_date":"8th and 9th August 2026",
+
+
+
+  "countdown-finish": "C'est le jour J",
+  "intro":"We have already said YES to love, and the greatest blessing of that love is our little Mayla. Today, we invite you to celebrate this love with us, surrounded by all those we love.",
+
+  "2_comment": "date",
+
+  "date_weekend":"The weekend of love",
+  "date_quand":"When ?",
+  "date_quandrep":"From Saturday, August 8 to Sunday, August 9, 2026",
+  "date_ou":"Where ?",
+  "date_ourep":"At the Berghotel Chäserstatt, 3995 Ernen, Valais",
+
+
+  "3_comment": "horaire",
+
+  "horaire_titre": "Weekend schedule",
+  "horaire_t1a":"2:00 p.m. – Welcome 🍸",
+  "horaire_t1b":"Welcome drink",
+  "horaire_t2a":"2:30 p.m. – Ceremony 💍",
+  "horaire_t2b":"Outdoor ceremony",
+  "horaire_t3a":"3:30 p.m. – Rally 🚩",
+  "horaire_t3b":"Team games and challenges",
+  "horaire_t4a":"117:00 p.m. –  Reception 🥂",
+  "horaire_t4b":"Drinks and appetizers",
+  "horaire_t5a":"19:00 p.m. – Dinner 🍽️",
+  "horaire_t5b":"Grilled food and dessert buffet",
+  "horaire_t6a":"22H – Party 🎉",
+  "horaire_t6b":"Until dawn",
+  "horaire_t7a":"From 8:00 a.m. – Breakfast 🥐",
+  "horaire_t7b":"For early birds",
+
+
+  "4_comment": "histoire",
+
+  "histoire_titre":"Notre histoire",
+  "histoire_annik":"\"We literally shared EVERYTHING together: the first glances, the first vacations, the first disagreements... and even the first breakup\" – Annik ",
+  "histoire_joaquim":"«Si notre amour tient une année à distance, il tiendra à vie» – Joaquim",
+  "histoire_button":"Pour tout l’histoire<br>Cliquez ici",
+
+
+  "5_comment": "infomartion",
+
+  "info_titre":"Informations importantes",
+  "info_intro":"Avant de préparer vos valises, prenez quelques minutes pour lire attentivement les informations ci-dessous. Elles vous aideront à organiser votre venue, savoir comment accéder au lieu, où dormir et à quoi vous attendre sur place. <br> Rien de compliqué, promis — mais quelques petits détails pratiques à connaître pour que tout se passe au mieux !",
+  "info_trans_titre":"Transport",
+  "info_trans_intro":"Le lieu du mariage n’est pas accessible en transports publics. La station de train la plus proche est celle de Fiesch. Depuis là une voiture est nécessaire. Si vous prévoyez de venir en transports publiques dites-le nous assez tôt pour que nous puissions nous arranger pour le dernier petit bout.<br> Au bout du village de Mühlebach, lieu juste avant la dernière montée, il y a un grand espace où il est possible de se garer gratuitement. Voici les coordonnées du parking gratuit de Mühlebach : 46°24'360\"N 8°09'30.7\"E. Depuis cet endroit, deux options s’offrent à vous :<br><br>",
+  "info_trans_1titre":"1.\tMonter en voiture par le petit chemin de montagne",
+  "info_trans_1cont":"L'accès coûte 5 CHF par voiture et est valable 24 heures (vous pouvez donc monter et descendre autant de fois que vous le souhaitez pendant cette période).<br>En haut, de nombreuses places de parking sont disponibles, donc aucun souci de ce côté-là.",
+  "info_trans_2titre":"2.\tLaisser la voiture en bas et faire du covoiturage",
+  "info_trans_2cont":"Le parking du bas est gratuit et spacieux. Vous pouvez ensuite partager un trajet avec d’autres invités pour la dernière partie du chemin. N’hésitez pas à vous organiser entre vous pour faciliter les montées !",
+  "info_logement_titre":"Logement",
+  "info_logement_intro":"Nous aimerions beaucoup que tous nos invités puissent rester sur place pour profiter pleinement du weekend ensemble. Cependant, il n’y a pas assez de lits pour tout le monde.<br><br>Voici donc les différentes possibilités qui s'offrent à vous:",
+  "info_logement_1titre":"1.\tChambres à l’hôtel Chäserstatt (sur place)",
+  "info_logement_1cont":"Pour celles et ceux qui souhaitent dormir dans une chambre, c’est possible, mais à vos frais. Il y a aussi la possibilité d’ajouter un matelas supplémentaire dans chaque chambre.",
+  "info_logement_2titre":"2.\tTentes (sur place)",
+  "info_logement_2cont":"Pour les aventuriers, les romantiques sous les étoiles ou les nostalgiques du camping, vous pouvez planter votre tente gratuitement sur place. Si c’est une tente qui vous manque, pas de soucis on s’arrange. Vous pourrez utiliser les toilettes et les douches de l’hôtel, sans frais supplémentaires.",
+  "info_logement_3titre":"3.\tVans ou voitures (sur place)",
+  "info_logement_3cont":"Si vous avez un van ou souhaitez dormir dans votre voiture, c’est également possible ! Vous pourrez utiliser les toilettes et les douches de l’hôtel, sans frais supplémentaires.",
+  "info_logement_4titre":"4.\tChambres à l’hôtel (ailleurs)",
+  "info_logement_4cont":"Dans le cas où il n’y aurait plus de chambres sur place et que l’idée de faire du camping ne vous vend pas du rêve, il y a plusieurs hôtels à 15-20min de route dans les villages en bas. Nous vous laisserions le soin de faire la réservation mais nous sommes à disposition si vous avez des questions.",
+  "info_logement_concl":"Vous allez pouvoir nous indiquez votre préférence parmi les différentes options ci-dessus dans le RSVP afin que nous puissions vous répartir dans les différentes chambres. Si besoin nous vous contacterons directement à ce sujet.",
+  "info_fin_titre":"Arrivée et départ",
+  "info_fin_cont":"Le mariage se déroulera sur deux jours : samedi et dimanche.<br>Nous, les mariés, serons déjà sur place quelques jours avant. Si certains souhaitent venir plus tôt pour profiter du lieu ce serait avec grand plaisir !<br>Ce sera un peu comme des mini-vacances à la montagne, ambiance détendue et apéros improvisés. Les nuits et repas seront à votre charge — mais les bons moments, eux, seront gratuits.<br>Nous précisons tout de même que si vous souhaiteriez passer les deux nuits sous tente ou dans la voiture cela est également possible (sans frais).<br><br>Si vous arrivez samedi, les festivités commenceront à 14h.<br>Pour ceux qui dormiront à l’hôtel le samedi soir, certaines chambres seront déjà accessibles dès votre arrivée, si ce n’est pas le cas, elles le seront au plus tard à 16h. Dans tous les cas, vous aurez un endroit pour déposer vos bagages.<br>Pour ceux qui prévoient de dormir sous tente, nous vous recommandons vivement d’arriver un peu en avance afin d’avoir le temps de l’installer avant la cérémonie, prévue à 14h30.<br>Cela vous évitera de devoir vous absenter pendant la fête… ou de devoir monter votre tente possiblement saoul dans le noir à 4h du matin !<br><br>Pour ce qui est du dimanche matin, le petit déjeuné sera servi entre 8h et 10h. Et les chambres devront être libérées à 10h.",
+
+
+  "6_comment": "FAQ",
+  "faq_titre":"FAQ",
+  "faq_infoprat_titre":"Informations pratiques",
+  "faq_infoprat_intro":"Vous avez peut-être encore des questions... Nous espérons pouvoir y répondre ici.",
+  "faq_infoprat_quest1":"Où et quand à lieu le mariage ?",
+  "faq_infoprat_rep1":"Au Berghotel Chäserstatt (3995 Ernen) du samedi 8 août 2026 à 14h00 au dimanche 9 août 2026 à 10h00.<br>Cependant, si vous voulez profitez du lieu, nous serions ravis de vous y voir déjà vendredi.",
+  "faq_infoprat_quest2":"À quelle heure devons-nous arriver ?",
+  "faq_infoprat_rep2":"Vous êtes attendus à 14h00 au plus tard. La cérémonie commencera à 14h30.<br>Cependant, si vous souhaitez arriver plus tôt pour profiter du lieu, nous serions ravis de vous y voir déjà vendredi.",
+  "faq_infoprat_quest3":"Y a-t-il un dress code ?",
+  "faq_infoprat_rep3":"Soyez beaux mais moins beaux que nous 😉😘",
+  "faq_infoprat_quest4":"Le mariage se déroule-t-il en intérieur ou en extérieur ?",
+  "faq_infoprat_rep4":"Entièrement en extérieur, sous tente. En cas de mauvais temps il y aura des chauffages.",
+  "faq_infoprat_quest5":"Quelles sont les conditions météorologiques locales typiques pour ce weekend ?",
+  "faq_infoprat_rep5":"Nous serons à 1770m d’altitude. Donc on ne sait jamais exactement. Vérifiez la météo avant de partir.",
+  "faq_trans_heberg_titre":"Transport & hébergement",
+  "faq_trans_heberg_quest1":"Comment venir ?",
+  "faq_trans_heberg_rep1":"Comme mentionné dans la section « Informations importantes ». Le plus simple est de venir en voiture.<br>En transport publique la gare la plus proche est celle de Fiesch. Mais le dernier bout n’est pas desservi en transport publique.",
+  "faq_trans_heberg_quest2":"Y a-t-il un parking sur place ?",
+  "faq_trans_heberg_rep2":"Comme mentionné dans la section « Informations importantes ». Il y a pleins de places autour de l’hôtel.<br>A savoir qu’il y a des frais de 5chf/24h pour chaque voiture qui monte. Il est aussi possible de laisser la voiture en bas du chemin payant (sur l’espace de stationnement gratuit de Mühlebach) et de monter à plusieurs dans une voiture.",
+  "faq_trans_heberg_quest3":"Y aura-t-il des navettes pour se rendre sur le lieu ?",
+  "faq_trans_heberg_rep3":"Il n’y a pas de navettes prévues. ",
+  "faq_trans_heberg_quest4":"Où dormir ?",
+  "faq_trans_heberg_rep4":"Comme mentionné dans la section « Informations importantes ». Plusieurs s’options s’offrent à vous. Nous vous laisserons le soin de choisir celle que vous préférez lorsque que vous remplirez le RSVP.",
+  "faq_trans_heberg_qest5":"Où et quand pouvons-nous déposer nos bagages ?",
+  "faq_trans_heberg_rep5":"Comme mentionné dans la section « Informations importantes ». Si votre chambre est prête à votre arrivée vous pourrez vous y installer avant la cérémonie. Si ce n’est pas le cas, les chambres seront à disposition à 16h au plus tard. Dans tous les cas vous aurez un espace à disposition pour y déposer vos bagages.<br>Pour ceux qui dorment sous tente nous vous conseillons de compter un peu de temps de marge et de l’installer dès votre arrivée, avant la cérémonie. Installer une tente dans la nuit et possiblement saoul n’est pas si facile (on ne parle pas d’expérience).",
+  "faq_repas_titre":"Repas & allergies",
+  "faq_repas_qest1":"J’ai un régime particulier, que faire ?",
+  "faq_repas_rep1":"Le repas sera sous forme de buffet, il y aura de tout pour tout le monde.",
+  "faq_repas_quest2":"J’ai des allergies, que faire ?",
+  "faq_repas_rep2":"Vous pourrez lister vos allergies au moment où vous compléterez le RSVP.",
+  "faq_prog_titre":"Programme & organisation",
+  "faq_prog_quest1":"Y a-t-il une fête le lendemain ?",
+  "faq_prog_rep1":"Il y a un petit déjeuner offert sur place entre 8h et 10h.",
+  "faq_prog_quest2":"Pouvons-nous venir avant ou rester plus longtemps ?",
+  "faq_prog_rep2":"Avec grand plaisir, nous y serons plusieurs jours avant et après.",
+  "faq_enfant_titre":"Enfants & accompagnants",
+  "faq_enfant_quest1":"Y aura-t-il un espace ou une animation pour les enfants ?",
+  "faq_enfant_rep1":"Il y a une salle de jeux mais pas d’animations.",
+  "faq_enfant_quest2":"Y a-t-il des lits et chaises pour bébé sur place ?",
+  "faq_enfant_rep2":"Oui, les deux. Vous pourrez nous indiquer vos besoins à ce niveau au moment où vous compléterez le RSVP.",
+  "faq_enfant_quest3":"Puis-je venir avec un +1 ?",
+  "faq_enfant_rep3":"Les invitations sont nominative, nous souhaitons que le mariage reste un moment intime et à taille humaine, pour pouvoir profiter pleinement de chaque personne présente.<br>Merci beaucoup pour votre compréhension et on se réjouit de vous compter parmi nous pour cette belle journée.",
+  "faq_divers_titre":"Divers",
+  "faq_divers_quest1":"Pouvons-nous prendre des photos pendant la cérémonie et la fête?",
+  "faq_divers_rep1":"Oui avec plaisir",
+  "faq_divers_quest2":"Jusqu’à quand confirmer ma présence ?",
+  "faq_divers_rep2":"Veuillez confirmer votre présence avant la fin de l’année civile 2025, donc au plus tard le 31 décembre 2025. Merci. Pour information, chaque invité doit remplir le RSVP.",
+
+
+  "7_comment":"RSVP",
+
+  "sect_rsvp_titre":"Si vous avez d’autres questions, vous pouvez nous joindre au :",
+  "sect_rsvp_cont":"Nous serons trois à célébrer cet amour, nous aimerions que vous soyez là avec nous.",
+  "sect_rsvp_button":"RSVP avant le 31.12.2025",
+
+
+
+
+
+
+  "8_comment":"Page histoire",
+
+  "SitHist_titre":"Notre histoire - Annik & Joaquim",
+  "sithist_intro":"Notre histoire vue par… <br>moi, Mayla",
+  "sithsit_intro2":"Bonjour à tous,<br><br>Je m’appelle Mayla et même si j’ai seulement quelques mois, je suis déjà une grande experte de l’amour… parce que j’ai eu la chance d’arriver dans la plus belle histoire de toutes : celle de mes parents, Annik et Joaquim.<br><br>Alors installez-vous, je vous raconte tout depuis le début",
+  "chap1_titre":"Chapitre 1 : Le nouveau couple, 2008",
+  "chap1_cont":"Il y a plus de 17 ans (oui oui, ça fait beaucoup pour moi, j’ai même pas encore 17 mois !), mes parents se sont rencontrés à l’école, dans la même classe. Très vite, une rumeur tournait comme quoi un garçon de la classe était amoureux de maman.<br><br>Et puis arrive le 12 décembre, la fameuse fête de l’Escalade. Ce jour-là papa envoie un SMS (c’est comme ça qu’on appelait les messages à cette époque-là) à maman pour lui dire qu’il allait révéler l’identité de son admirateur secret ce soir même. Pendant la boom de la fête à l’école, il prend son courage à deux mains pour lui avouer : « C’est moi le garçon amoureux de toi ».<br><br>Maman, un peu prise de court (et un peu indécise aussi), demande du temps pour réfléchir.<br><br>Spoiler : ça lui prend environ 30 minutes et une réunion d’urgence avec ses copines avant de revenir dire « oui ».<br>Résultat : premier slow, premier bisou… et le début de leur histoire.",
+  "chap2_titre":"Chapitre 2 : Les années d’adolescence",
+  "chap2_cont":"Ensuite ? Des activités, des sorties, des longs au revoir derrière le tas de bois, des cinés, des restos… bref, tout ce qu’il faut pour se construire plein de souvenirs.<br><br>Puis vient le collège, mais rien ne change dans leurs habitudes. Jusqu’à ce qu’un jour maman parte un an au Canada.<br><br>Vous voulez savoir le plus drôle ? Papa a raté son départ à l’aéroport à cause d’une panne de réveil (oui oui, c’est vrai !).<br><br>Mais le plus fou dans tout ça, c’est que quand maman a laissé papa seul à Genève pour vivre cette super aventure à l’autre bout du monde, les deux n’avaient que seize ans. Ils étaient jeunes, beaux gosses, séparés aux deux extrémités du globe… et pourtant, ils n’ont jamais douté. Pas une fois! Pas de crise, pas de pause, pas de “on verra bien”, rien du tout. Leur histoire tenait bon — solide comme jamais. <br><br>N’empêche qu’il faut aussi dire merci à Skype! Grâce à lui (et aussi aux réveils matinaux de papa), ils ont pu continuer à se parler, à rire et à s’aimer malgré le décalage horaire. Comme quoi, quand c’est la bonne personne, même les océans n’y changent rien !",
+  "chap3_titre":"Chapitre 3 : L’université et la vie d’adulte",
+  "chap3_cont":"Maman part encore… Mais cette fois elle ne va pas très loin. Elle va étudier le sport et l’anglais à Lausanne. Papa, lui, reste à Genève pour étudier la biologie. <br><br>Résultat : ils ne se voient plus que le week-end.<br><br>Et puis arrive 2020 : le Covid, mais aussi leur séparation. Ce n’a pas été une période facile pour les deux. Pourtant, je suppose qu’elle a dû être nécessaire pour faire avancer et grandir leur couple.<br><br>Mais heureusement, il faut croire que quand deux personnes sont faites pour être ensemble… elles finissent toujours par se retrouver.<br><br>Après le confinement, maman et papa décident de redonner une chance à leur histoire et de s’installer ensemble. Bon… disons que la première tentative n’a pas été un succès. Mais comme les belles histoires trouvent toujours leur chemin, ils ont fini par se retrouver pour de bon, dans un petit appartement à Puplinge. Et cette fois, plus rien ne les a séparés.</p>",
+  "chap4_titre":"Chapitre 4 : La demande et… moi !",
+  "chap4_cont":"L’été 2024, durant leur voyage en Norvège, papa fait (enfin) sa demande de mariage. (Franchement, il était temps, non ?)<br><br>Mais ce qu’ils ignoraient, c’est qu’un autre bonheur les attendait durant ce même voyage… Deux semaines plus tard, ils découvraient qu’un petit cœur battait déjà dans le ventre de maman : moi.<br><br>Autant dire que le mariage a vite changé de priorité…<br><br>Et le 31 mars 2025, j’ai fait mon entrée dans ce monde et dans la vie de maman et papa.",
+  "chap5_titre":"Chapitre 5 : Et nous voilà aujourd’hui",
+  "chap5_cont":"Alors oui, il a fallu un peu attendre pour pouvoir organiser cet événement… mais ça valait le coup, non?<br><br>En août prochain, on sera là, entourés de tous ceux qu’on aime, pour célébrer 17 ans d’histoire, d’aventures, de séparations et de retrouvailles, de fou rires et de projets.<br><br>Et moi, je suis bien placée pour vous dire une chose : Mes parents sont la preuve vivante qu’avec de la patience, de l’écoute, beaucoup d’humour et un peu de Skype, l’amour peut tout traverser.",
+  "signa":"Signé : votre narratrice de huit mois (et déjà un peu fière de ses parents),<br><strong>Mayla</strong>",
+  "button_retour":"⬅ Retour à l’accueil",
+
+
+
+
+
+
+  "9_comment":"rsvp",
+  
+  "rsvp_t":"RSVP - Annik & Joaquim",
+  "rsvp_btn_ret":"Retour",
+  "rsvp_titre":"Fête de l’Amour Annik & Joaquim",
+  "rsvp_cont1":"Confirmez votre présence",
+  "rsvp_cont2":"Répondez à ces quelques questions pour confirmer votre présence.",
+  "rsvp_info_perso_titre":"Informations personnelles",
+  "rsvp_fin_perso_prenom":"Prénom",
+  "rsvp_fin_perso_nom":"Nom",
+
+  "rsvp_presence":"Présence",
+  "rsvp_presence_rep1":"Je veux profiter un maximum, je vous rejoins déjà vendredi",
+  "rsvp_presence_rep2":"Comptez sur ma présence samedi et dimanche",
+  "rsvp_presence_rep3":"Je serai de la partie le samedi uniquement",
+  "rsvp_presence_rep4":"Désolé, je serai obligé de manquer cet évenement incroyable",
+  "rsvp_presence_commentaire":"Commentaire :",
+  
+  "rsvp_repas":"Repas",
+  "rsvp_repas_rep":"Avez-vous des allergies ou intolérances ?",
+
+  "rsvp_heberg":"Hébergement",
+  "rsvp_heberg_rep1":" Je suis ouvert à l'idée de dormir sous une tente (surplace)",
+  "rsvp_heberg_rep2":"Je souhaite dormir dans une chambre du Berghotel Chäserstatt (surpalce)",
+  "rsvp_heberg_rep3":"e ne dormirai pas sur place et me débrouille par mes prorpes moyens pour ce qui concerne le logement",
+  "rsvp_heberg_rep4":"Je veux La tente",
+  "rsvp_heberg_rep5":"Dormir? Pourquoi?",
+  "rsvp_heberg_com":"Commentaire :",
+
+  "rsvp_music":"Musique",
+  "rsvp_music_cont":"Si vous ne voulez pas entendre du Disney toute la nuit, n'hésitez pas à nous faire part de votre titre incontournable pour une bonne soirée.",
+
+  "rsvp_bebe":"Matériel bébé",
+  "rsvp_bebe_rep1":"J'ai besoin d'un lit pour bébé",
+  "rsvp_bebe_rep2":"J'ai besoin d'une chaise haute pour bébé",
+ 
+  "rsvp_reponse":"Envoyer",
+
+  "rsvp_validation":"Les réponses seront enregistrées via Google Forms."
+
 }
