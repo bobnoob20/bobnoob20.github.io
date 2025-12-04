@@ -140,6 +140,148 @@
 </section>
 
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="rsvp_t"></title>
+  <link rel="stylesheet" href="sytles2.css">
+</head>
+
+<nav>
+  <div class="nav-left">
+    <div class="logo">A & J</div>
+  </div>
+
+  <div class="nav-center">
+    <div class="menu">
+      <a href="main.html#fete" id="nav_fete"></a>
+      <a href="main.html#histoire" id="nav_histoire"></a>
+      <a href="main.html#Info" id="nav_info"></a>
+      <a href="main.html#faq" id="nav_faq"></a>
+    </div>
+  </div>
+
+  <div class="nav-right">
+    <div class="menu">
+      <a href="main.html" class="btn-rsvp" id="rsvp_btn_ret"></a>
+      <div class="dropdown-langue">
+        <button class="btn-langue" id="nav_langue"></button>
+        <div class="dropdown-content">
+          <a href="main.html">Français</a>
+          <a href="English.html">English</a>
+          <a href="Deutsch.html">Deutsch</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+<body>
+
+
+
+<!-- FORMULAIRE -->
+<section class="form-container">
+
+  <h1 id="rsvp_titre"></h1>
+  
+  <p class="subtitle" id="rsvp_cont1"></p>
+  <p class="description" id="rsvp_cont2"></p>
+
+  <form
+    action="https://docs.google.com/forms/d/e/1FAIpQLSd-D_A7enMlBnR4fwXYWhWwSkucFA5X8pGt25T3MzPIfREMkg/formResponse"
+    method="POST"
+    target="_blank"
+    >
+
+    <h2 id="rsvp_info_perso_titre"></h2>
+
+    <div class="row">
+        <div class="input-group">
+            <label id="rsvp_fin_perso_prenom"></label>
+            <input type="text" name="entry.876511233"required>
+        </div>
+
+        <div class="input-group">
+            <label id="rsvp_fin_perso_nom"></label>
+            <input type="text" name="entry.1672282878"required>
+        </div>
+    </div>
+    <!-- PRÉSENCE -->
+    <h2 id="rsvp_presence"></h2> 
+    <div class="radio-group">
+        <label id="rsvp_presence_rep1"><input type="radio" name="entry.279183771" value="vendredi" ></label>
+        <label id="rsvp_presence_rep2"><input type="radio" name="entry.279183771" value="semdi + dimanche"></label>
+        <label id="rsvp_presence_rep3"><input type="radio" name="entry.279183771" value="samedi" ></label>
+        <label id="rsvp_presence_rep4"><input type="radio" name="entry.279183771" value="absent" ></label>
+    </div>
+     <div class="input-group textarea-container">
+        <label id="rsvp_presence_commentaire"></label>
+        <textarea class="textarea" name="entry.1216305587"></textarea>
+    </div>
+
+    <h2 id="rsvp_repas"></h2>
+    <p id="rsvp_repas_rep"></p>
+    <textarea class="textarea" name="entry.453403604">
+    </textarea>
+
+    <!-- HÉBERGEMENT -->
+    <h2 id="rsvp_heberg"></h2>
+      <div class="radio-group">
+        <label id="rsvp_heberg_rep1">
+          <input type="radio" name="entry.667456340" value="tente sur place">
+          <span class="label-text"></span>
+        </label>
+
+
+          <label id="rsvp_heberg_rep2">
+              <input type="radio" name="entry.667456340" value="chambre hotel">
+              <span class="label-text"></span>
+          </label>
+
+          <label id="rsvp_heberg_rep3">
+              <input type="radio" name="entry.667456340" value="mes moyens">
+              <span class="label-text"></span>
+          </label>
+
+          <label id="rsvp_heberg_rep4">
+              <input type="radio" name="entry.667456340" value="je veux une tente">
+              <span class="label-text"></span>
+          </label>
+
+          <label id="rsvp_heberg_rep5">
+              <input type="radio" name="entry.667456340" value="dormir pk?">
+              <span class="label-text"></span>
+          </label>
+      </div>
+
+
+    <div class="input-group textarea-container">
+        <label id="rsvp_heberg_com"></label>
+        <textarea class="textarea" name="entry.357053061"></textarea>
+    </div>
+
+    <h2 id="rsvp_music"></h2>
+    <p id="rsvp_music_cont"></p>
+    <input type="text" class="small-input" name="entry.835506396">
+
+    <!-- MATOS BÉBÉ -->
+    <h2 id="rsvp_bebe"></h2>
+    <div class="radio-group">
+        <label id="rsvp_bebe_rep1"><input type="checkbox" name="entry.609603144" value="lit"></label>
+        <label id="rsvp_bebe_rep2"><input type="checkbox" name="entry.609603144" value="chaise"><label>
+    </div>
+
+    <button type="submit" class="btn-submit" id="rsvp_reponse"></button>
+  </form>
+
+  <p class="google-text" id="rsvp_validation"></p>
+</section>
+
+
 <script>
   let translations = {}; // <-- global
 
@@ -175,6 +317,13 @@
     location.reload();
   }
 </script>
+
+</body>
+</html>
+
+
+
+
 
 </body>
 </html>
