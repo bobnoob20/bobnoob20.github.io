@@ -60,8 +60,11 @@
   "info_trans_1cont":"L'accès coûte 5 CHF par voiture et est valable 24 heures (vous pouvez donc monter et descendre autant de fois que vous le souhaitez pendant cette période).<br>En haut, de nombreuses places de parking sont disponibles, donc aucun souci de ce côté-là.",
   "info_trans_2titre":"2.\tLaisser la voiture en bas et faire du covoiturage",
   "info_trans_2cont":"Le parking du bas est gratuit et spacieux. Vous pouvez ensuite partager un trajet avec d’autres invités pour la dernière partie du chemin. N’hésitez pas à vous organiser entre vous pour faciliter les montées !",
+  
+  
+  
   "info_logement_titre":"Logement",
-  "info_logement_intro":"Nous aimerions beaucoup que tous nos invités puissent rester sur place pour profiter pleinement du weekend ensemble. Cependant, il n’y a pas assez de lits pour tout le monde.<br><br>Voici donc les différentes possibilités qui s'offrent à vous:",
+  "info_logement_intro":"Nous aimerions beaucoup que tous nos invités puissent rester sur place pour profiter pleinement du weekend ensemble. Cependant, il n’y a pas assez de lits pour tout le monde.<br><br>Voici donc les différentes possibilités qui s'offrent à vous:<br><br>",
   "info_logement_1titre":"1.\tChambres à l’hôtel Chäserstatt (sur place)",
   "info_logement_1cont":"Pour celles et ceux qui souhaitent dormir dans une chambre, c’est possible, mais à vos frais. Il y a aussi la possibilité d’ajouter un matelas supplémentaire dans chaque chambre.",
   "info_logement_2titre":"2.\tTentes (sur place)",
