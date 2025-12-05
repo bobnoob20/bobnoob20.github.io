@@ -110,32 +110,74 @@
   </section>
 
 <script>
-  let translations = {}; // <-- global
+  // attendre le DOM si besoin
+  document.addEventListener("DOMContentLoaded", () => {
 
-  const lang = localStorage.getItem("lang") || "fr";
+    let translations = {};
+    const lang = localStorage.getItem("lang") || "fr";
 
-  fetch(`lang/${lang}.json`)
-    .then(response => response.json())
-    .then(data => {
-      translations = data;
+    fetch(`lang/${lang}.json`)
+      .then(response => response.json())
+      .then(data => {
+        translations = data;
 
-      // Apply all translated texts
-      for (const id in translations) {
-        const element = document.getElementById(id);
-        if (element) {
+        for (const id in translations) {
+          const element = document.getElementById(id);
+          if (!element) {
+            console.warn(`Element #${id} introuvable dans la page`);
+            continue;
+          }
+
           let text = translations[id];
-          text = text.replace(/\t/g, "&nbsp;&nbsp;&nbsp;&nbsp;");
-          text = text.replace(/\n/g, "<br>");
-          element.innerHTML = text;
-        }
-      }
-    });
 
-  function setLang(language) {
-    localStorage.setItem("lang", language);
-    location.reload();
-  }
+          if (typeof text !== "string") {
+            console.warn(`La valeur de "${id}" n'est pas une string:`, text);
+            text = String(text);
+          }
+
+          // 1) Gérer les cas où le JSON contient des séquences échappées littérales ("\n", "\t")
+          //    -> remplace "\\n" (backslash + n) par un vrai newline, idem pour "\\t"
+          text = text.replace(/\\\\n/g, "\\n"); // si double-échappé \\n -> \n (préparation)
+          text = text.replace(/\\\\t/g, "\\t");
+
+          // Maintenant remplacer les séquences littérales \n et \t par des caractères réels
+          text = text.replace(/\\n/g, "\n");
+          text = text.replace(/\\t/g, "\t");
+
+          // 2) Remplacer entités HTML communes encodées par <br>
+          text = text.replace(/&lt;br\s*\/?&gt;/gi, "<br>");
+
+          // 3) Convertir les tabs réels en indentation visible (4 insécables)
+          text = text.replace(/\t/g, "&nbsp;&nbsp;&nbsp;&nbsp;");
+
+          // 4) Convertir tous les retours à la ligne réels en <br>
+          //    On gère \r\n, \r et \n pour être complet
+          text = text.replace(/\r\n|\r|\n/g, "<br>");
+
+          // 5) Optionnel : normaliser les multiples <br> si tu veux un petit espace
+          //    (ici on conserve les doubles <br> tels quels)
+          //    Si tu veux forcer un espace plus grand pour les doubles sauts :
+          // text = text.replace(/(<br>\s*){2,}/g, "<br><br>");
+
+          // 6) Appliquer le HTML final
+          element.innerHTML = text;
+
+          // log utile pour debug
+          console.log(`Injecté #${id}:`, text.slice(0, 200));
+        }
+      })
+      .catch(err => {
+        console.error("Erreur fetch lang JSON:", err);
+      });
+
+    // rendre setLang global (utilisé par onclick inline)
+    window.setLang = function(language) {
+      localStorage.setItem("lang", language);
+      location.reload();
+    };
+  });
 </script>
+
 
 </body>
 
