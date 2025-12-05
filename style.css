@@ -1,7 +1,7 @@
 /* === Reset & bases === */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 img { max-width: 100%; height: auto; }
-html { scroll-behavior: smooth; font-size: 16px; }
+html { scroll-behavior: smooth; font-size: 16px; white-space: normal;}
 body { font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: #000; }
 
 
@@ -252,7 +252,6 @@ nav .btn-langue  p { padding: 15px; font-size: 15px; color: #333; border-top: 1p
   margin-bottom: 20px;
   color: #333;
 }
-
 
 
 /* === Histoire page avec chapitres === */
