@@ -280,7 +280,6 @@ nav .btn-langue  p { padding: 15px; font-size: 15px; color: #333; border-top: 1p
 }
 .chapitre {
   display: flex;
-  white-space: pre-line;
   gap: 20px;
   align-items: flex-start;
    margin-bottom: 40px;

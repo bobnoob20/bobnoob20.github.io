@@ -224,3 +224,6 @@ input[type="text"], textarea {
     .btn-langue { font-size: 13px; padding: 6px 10px; }
 }
 
+p {
+  white-space: pre-line;
+}
