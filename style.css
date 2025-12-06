@@ -109,8 +109,8 @@ height: 66vh;}
 
 
 
-/* === Timeline === */
-.timeline { position: relative; background: #a15721fb; padding: 60px 20px; color: white; text-align: center; }
+/* === Timeline  background: #a15721fb=== */
+.timeline { position: relative; background-color: darkgreen; padding: 60px 20px; color: white; text-align: center; }
 .timeline h2 { font-size: 28px; margin-bottom: 40px; }
 .timeline-items { position: relative; }
 .timeline::before {
@@ -187,8 +187,9 @@ height: 66vh;}
 /* === Info === */
 
 
+
 /* === FAQ === */
-.faq { background: #f1c395; padding: 60px 10%; }
+.faq { background: #f3e2c5; padding: 60px 10%; }
 .faq h2 { text-align: center; font-size: 28px; margin-bottom: 10px; }
 .faq-intro { text-align: center; margin-bottom: 40px; font-size: 16px; color: #444; }
 .faq-category { margin-bottom: 40px; }
