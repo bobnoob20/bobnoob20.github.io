@@ -109,8 +109,8 @@ height: 66vh;}
 
 
 
-/* === Timeline  background: #a15721fb=== */
-.timeline { position: relative; background-color: darkgreen; padding: 60px 20px; color: white; text-align: center; }
+/* === Timeline  === */
+.timeline { position: relative; background: #a15721fb; padding: 60px 20px; color: white; text-align: center; }
 .timeline h2 { font-size: 28px; margin-bottom: 40px; }
 .timeline-items { position: relative; }
 .timeline::before {
