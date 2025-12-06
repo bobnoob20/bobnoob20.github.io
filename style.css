@@ -75,7 +75,7 @@ nav .btn-langue  p { padding: 15px; font-size: 15px; color: #333; border-top: 1p
   justify-content: center;  /* center vertically (optional) */
   text-align: center;       /* center text */
   gap: 20px;                /* space between elements */
-height: 40vh;margin-bottom: 3%;}
+height: 40vh;}
 .information{height:auto; width:auto;justify-content: flex-start;padding: 5% 10%; background-color: #f9e7b5;
 }
 .information-titre-main{justify-content: center;align-items: center; text-align: center}
